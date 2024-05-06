@@ -1,2 +1,2 @@
 # OSlab2
-write the shell script that print shell is fun on the screen
+write the shell script that print shell scripting is fun on the screen
